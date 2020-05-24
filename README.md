@@ -63,24 +63,25 @@
 
 -  **Design and Development of AR Based Laboratory for Smart Learning** 
       -  This application can replace printed materials, Physical models etc by projecting them in a augmented way and enhancing better visualization of a concepts.They can learn concepts , experiment procedure in a Augmented Way.
+      
 
 -  **Density based Traffic control system using IoT**
      -  Clears the traffic based on the density of the vehicles on the  road in short duration. Prototype is presented in a Data science workshop held in Sree Vidyanikethan Engg College.
+     
 
 - **IOT Based Stress Detection and Health Monitoring System**
-
     - It monitors the stress of a person and helps them to maintain good health by intimating their high stress levels using IOT.
+    
 
 -  **Developed AR application for Content Reading in Library**
-
    - The Contents present inside the book are displayed on the top of the book Virtually when the book is scanned with the AR based mobile App.
+   
 
 - **Developed Augmented Reality based Tourism APP**
-
   -   This application will assist travelers and tourists to get useful information and explore the places of historical heritage, monuments, landmarks etc. using Augmented Reality technology. This project is submitted to Smart India Hackathon 2020.
+  
 
 -  **Digital counter using IR sensor using Arduino**
-
    - This system is used to permit the members up to maximum count that can be allocated in a classrooms, auditoriums, compartments etc.
 
 ## **_TRAININGS &_** **_INTERNSHIPS_**
