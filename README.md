@@ -60,29 +60,27 @@
 
 ## **_PROJECTS_**
 
-### · **Design and Development of AR Based Laboratory for Smart Learning**
+-  **Design and Development of AR Based Laboratory for Smart Learning** 
+      -  This application can replace printed materials, Physical models etc by projecting them in a augmented way and enhancing better visualization of a concepts.They can learn concepts , experiment procedure in a Augmented Way.
 
-This application can replace printed materials, Physical models etc by projecting them in a augmented way and enhancing better visualization of a concepts.They can learn concepts , experiment procedure in a Augmented Way.
+-  **Density based Traffic control system using IoT**
+     -  Clears the traffic based on the density of the vehicles on the  road in short duration. Prototype is presented in a Data science workshop held in Sree Vidyanikethan Engg College.
 
-### ·  **Density based Traffic control system using**  **IoT**
+- **IOT Based Stress Detection and Health Monitoring System**
 
-Clears the traffic based on the density of the vehicles on the  road in short duration. Prototype is presented in a Data science workshop held in Sree Vidyanikethan Engg College.
+    - It monitors the stress of a person and helps them to maintain good health by intimating their high stress levels using IOT.
 
-### · **IOT Based Stress Detection and Health Monitoring System**
+-  **Developed AR application for Content Reading in Library**
 
-It monitors the stress of a person and helps them to maintain good health by intimating their high stress levels using IOT.
+   - The Contents present inside the book are displayed on the top of the book Virtually when the book is scanned with the AR based mobile App.
 
-### · **Developed AR application for Content Reading in Library**
+- **Developed Augmented Reality based Tourism APP**
 
-The Contents present inside the book are displayed on the top of the book Virtually when the book is scanned with the AR based mobile App.
+  -   This application will assist travelers and tourists to get useful information and explore the places of historical heritage, monuments, landmarks etc. using Augmented Reality technology. This project is submitted to Smart India Hackathon 2020.
 
-### · **Developed Augmented Reality based Tourism APP**
+-  **Digital counter using IR sensor using Arduino**
 
-This application will assist travelers and tourists to get useful information and explore the places of historical heritage, monuments, landmarks etc. using Augmented Reality technology. This project is submitted to Smart India Hackathon 2020.
-
-### · **Digital counter using IR sensor using Arduino**
-
-This system is used to permit the members up to maximum count that can be allocated in a classrooms, auditoriums, compartments etc.
+   - This system is used to permit the members up to maximum count that can be allocated in a classrooms, auditoriums, compartments etc.
 
 ## **_TRAININGS &_** **_INTERNSHIPS_**
 
