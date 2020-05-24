@@ -1,9 +1,3 @@
-# **B SATISH KUMAR**
-
-Tirupati, Andhrapradesh
-
-9110331503  |  satishkumarbodagala@gmail.com
-
 ## **_ACADEMIC QUALIFICATIONS_**
 
 - **B. Tech** (Electronics & Comm Engineering) in Sree Vidyanikethan Engineering College with a GPA 8.42
