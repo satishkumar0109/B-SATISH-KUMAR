@@ -34,6 +34,7 @@
 - Expertise in various softwares like Proteus, Matlab, Unity, Visual studio.
 
 - Design and develop 2D, 3D games, Virtual rooms, Virtual Colleges, Virtual lab view etc using Unity, Vuforia and AR core.
+
 - Developed android applications on Augmented Reality and Virtual reality using Unity.
 
 - Proficient in languages like C, Python, Data Structures, Assembly Language, DBMS, Embedded C, C#.
