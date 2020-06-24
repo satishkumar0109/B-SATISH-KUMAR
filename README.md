@@ -113,7 +113,7 @@
 
 - English 
 - Telugu 
--  Hindi.
+-  Hindi
 
 ## **_PUBLICATIONS_**
 
