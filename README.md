@@ -1,4 +1,4 @@
-## **_ACADEMIC QUALIFICATIONS_**
+## **_ACADEMIC QUALIFICATIONS_** 
 
 - **B. Tech** (Electronics & Comm Engineering) in Sree Vidyanikethan Engineering College with a GPA 8.42
 
